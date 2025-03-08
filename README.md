@@ -1,8 +1,9 @@
 # BRAWL STARS
 [ua.csv](https://github.com/Korovay/MULTiFRUiT/blob/main/ua.csv) - Here is the fully translated ```localization/ua.csv``` file in Ukrainian.
 
+[Gif-Profile-Icons](https://github.com/Korovay/MULTiFRUiT/tree/main/Gif-Profile-Icons) - Most of us use Brawlify to get user profile icons, but in the game, they are also animated. So, in my opinion, and based on your preference, you can display them on a Discord server or a website in a similar way, at your discretion!
 
-Most of us use Brawlify to get user profile icons, but in the game, they are also animated. So, in my opinion, and based on your preference, you can display them on a Discord server or a website in a similar way, at your discretion!
+
 ```// In the section where profileIconUrl is defined
 let profileIconUrl;
 
