@@ -4,7 +4,8 @@
 - [Gif-Profile-Icons](https://github.com/Korovay/MULTiFRUiT/tree/main/Gif-Profile-Icons) - Most of us use [Brawlify](https://github.com/Brawlify/CDN/tree/master/profile-icons/regular) to get user profile icons, but some of them are animated in the game. So, in my opinion, you can display them on a Discord server or a website in a similar way, based on your preference and discretion!
 
 
-```// In the section where profileIconUrl is defined
+```javascript
+// In the section where profileIconUrl is defined
 let profileIconUrl;
 
 // Check if a GIF version of the icon exists
@@ -25,6 +26,6 @@ try {
     // In case of any error (e.g., 404), use the PNG
     profileIconUrl = pngIconUrl;
 };
-```
+
 
 
