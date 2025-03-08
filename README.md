@@ -24,5 +24,7 @@ try {
 } catch (error) {
     // In case of any error (e.g., 404), use the PNG
     profileIconUrl = pngIconUrl;
-}```
+};
+```
+
 
