@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://i.imgur.com/VDIajRV.gif" alt="Header">
+</p>
+
 # BRAWL STARS
 - [ua.csv](https://github.com/Korovay/MULTiFRUiT/blob/main/ua.csv) - Here is the fully translated ```localization/ua.csv (v60.420)``` file in Ukrainian.
 
