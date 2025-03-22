@@ -9,7 +9,7 @@
 let profileIconUrl;
 
 // Check if a GIF version of the icon exists
-const gifIconUrl = `https://korovay.github.io/MULTiFRUiT/Gif-Profile-Icons/${player.icon?.id}.gif`;
+const gifIconUrl = `https://korovay.github.io/Brawl/Gif-Profile-Icons/${player.icon?.id}.gif`;
 const pngIconUrl = `https://cdn.brawlify.com/profile-icons/regular/${player.icon?.id}.png`;
 
 // Use axios to check the availability of the GIF file
